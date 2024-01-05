@@ -1,8 +1,8 @@
 # prisma-redis-uncache
 
-The `prisma-redis-uncache` library complements the [prisma-redis-cache](../prisma-redis-cache) library by providing a straightforward solution for selectively invalidating cached Prisma query results in a Redis/Dragonfly database. This library is essential for scenarios where real-time data updates or changes in the application's state require immediate cache invalidation to maintain data integrity.
+The `prisma-redis-uncache` library complements the [prisma-redis-cache](https://github.com/yxx4c/prisma-redis-cache) library by providing a straightforward solution for selectively invalidating cached Prisma query results in a Redis/Dragonfly database. This library is essential for scenarios where real-time data updates or changes in the application's state require immediate cache invalidation to maintain data integrity.
 
-🚀 Enjoying prisma-redis-uncache? [⭐ Star Me!](https://github.com/yxx4c/prisma-redis-uncache)
+🚀 If `prisma-redis-uncache` proves helpful, consider giving it a star! [⭐ Star Me!](https://github.com/yxx4c/prisma-redis-uncache)
 
 ### **Installation**
 
@@ -74,4 +74,4 @@ With `prisma-redis-uncache`, you can maintain the balance between performance op
 
 ### Elevate Redis Cache Performance with prisma-redis-cache
 
-Enhance your Redis cache strategy with [prisma-redis-cache](../prisma-redis-cache). Seamlessly integrate query result caching to optimize the performance of your Prisma-based applications. Reduce latency and improve overall responsiveness, taking your Redis caching to new heights. Install and explore the features to enhance your existing Redis cache strategy.
+Enhance your Redis cache strategy with [prisma-redis-cache](https://github.com/yxx4c/prisma-redis-cache). Seamlessly integrate query result caching to optimize the performance of your Prisma-based applications. Reduce latency and improve overall responsiveness, taking your Redis caching to new heights. Install and explore the features to enhance your existing Redis cache strategy.
