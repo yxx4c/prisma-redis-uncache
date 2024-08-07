@@ -1,4 +1,6 @@
-# prisma-redis-uncache
+# The package @yxx4c/prisma-redis-uncache has been deprecated. Please use [@yxx4c/prisma-redis-extension](https://github.com/yxx4c/prisma-redis-extension) instead.
+
+## prisma-redis-uncache
 
 The `prisma-redis-uncache` library complements the [prisma-redis-cache](https://github.com/yxx4c/prisma-redis-cache) library by providing a straightforward solution for selectively invalidating cached Prisma query results in a Redis/Dragonfly database. This library is essential for scenarios where real-time data updates or changes in the application's state require immediate cache invalidation to maintain data integrity.
 
