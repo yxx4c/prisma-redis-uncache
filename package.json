@@ -1,7 +1,8 @@
 {
   "name": "@yxx4c/prisma-redis-uncache",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Prisma extension for selective cache invalidation in Redis and DragonflyDB",
+  "deprecated": "The package @yxx4c/prisma-redis-uncache has been deprecated. Please use prisma-extension-redis instead.",
   "repository": {
     "type": "git",
     "url": "https://github.com/yxx4c/prisma-redis-uncache.git"
